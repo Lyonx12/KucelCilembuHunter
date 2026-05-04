@@ -7,13 +7,16 @@ public class KucelController : MonoBehaviour
     private Rigidbody2D rb;
     private Vector2 moveInput;
 
-    [Header("Skill Muka Melas")]
-    public float melasRadius = 2.5f; // Jarak jangkauan muka melas
-    public float skillCooldown = 5f; // Harus nunggu 5 detik sebelum bisa melas lagi
+    [Header("Skill Sembunyi / Muka Melas")]
+    public float melasRadius = 2.5f;
+    public float skillCooldown = 5f;
     private float currentCooldown = 0f;
 
     [Header("UI Menang")]
     public GameObject winPanel;
+
+    // --- VARIABEL KONTROL MOBILE ---
+    private bool isMoveLeft, isMoveRight, isMoveUp, isMoveDown;
 
     void Start()
     {
@@ -22,55 +25,78 @@ public class KucelController : MonoBehaviour
 
     void Update()
     {
-        // 1. Membaca Input Pergerakan
-        moveInput.x = Input.GetAxisRaw("Horizontal");
-        moveInput.y = Input.GetAxisRaw("Vertical");
+        // 1. Membaca Input Keyboard (Untuk PC)
+        float inputX = Input.GetAxisRaw("Horizontal");
+        float inputY = Input.GetAxisRaw("Vertical");
 
+        if (moveInput.magnitude > 0) Debug.Log("Kucel sedang berusaha jalan!");
+
+        // 2. Menimpa dengan Input Mobile (Jika tombol layar ditekan)
+        if (isMoveLeft) inputX = -1f;
+        if (isMoveRight) inputX = 1f;
+        if (isMoveUp) inputY = 1f;
+        if (isMoveDown) inputY = -1f;
+
+        moveInput = new Vector2(inputX, inputY);
+
+        // 3. Mengatur Hadapan Kucel (Flip Sprite)
         if (moveInput.x > 0) transform.localScale = new Vector3(1, 1, 1);
         else if (moveInput.x < 0) transform.localScale = new Vector3(-1, 1, 1);
 
-        // 2. Mengurus Cooldown Skill
-        if (currentCooldown > 0)
-        {
-            currentCooldown -= Time.deltaTime;
-        }
+        // 4. Cooldown Skill
+        if (currentCooldown > 0) currentCooldown -= Time.deltaTime;
 
-        // 3. Menekan Tombol Skill (SPASI)
+        // 5. Input Keyboard untuk Skill Melas (Spasi)
         if (Input.GetKeyDown(KeyCode.Space) && currentCooldown <= 0)
         {
-            GunakanMukaMelas();
+            TombolSembunyiMelas();
         }
     }
 
     void FixedUpdate()
     {
-        // Pergerakan Fisika Kucel
+        // Menggerakkan fisik Kucel
         rb.MovePosition(rb.position + moveInput.normalized * moveSpeed * Time.fixedDeltaTime);
     }
 
-    // --- FUNGSI SPATIAL SENSING (OVERLAP DETECTION) ---
-    void GunakanMukaMelas()
+    // ==========================================
+    // FUNGSI UNTUK TOMBOL MOBILE (TOUCH SCREEN)
+    // ==========================================
+    public void PointerDownLeft() { isMoveLeft = true; }
+    public void PointerUpLeft() { isMoveLeft = false; }
+
+    public void PointerDownRight() { isMoveRight = true; }
+    public void PointerUpRight() { isMoveRight = false; }
+
+    public void PointerDownUp() { isMoveUp = true; }
+    public void PointerUpUp() { isMoveUp = false; }
+
+    public void PointerDownDown() { isMoveDown = true; }
+    public void PointerUpDown() { isMoveDown = false; }
+
+    public void TombolSembunyiMelas() // Tombol Skill
     {
-        Debug.Log("Kucel: *Pasang muka melas tingkat dewa*");
-        currentCooldown = skillCooldown; // Mulai cooldown
-
-        // Membuat lingkaran tak kasat mata untuk mendeteksi semua objek di sekitar Kucel
-        Collider2D[] objectsInRange = Physics2D.OverlapCircleAll(transform.position, melasRadius);
-
-        foreach (Collider2D obj in objectsInRange)
+        if (currentCooldown <= 0)
         {
-            // Jika objek itu adalah musuh
-            if (obj.CompareTag("Enemy"))
+            Debug.Log("Kucel: *Sembunyi / Pasang muka melas*");
+            currentCooldown = skillCooldown; 
+            Collider2D[] objectsInRange = Physics2D.OverlapCircleAll(transform.position, melasRadius);
+            foreach (Collider2D obj in objectsInRange)
             {
-                // Ambil skrip FSM musuh dan panggil fungsi KenaJurusMelas()
-                RivalCatFSM rival = obj.GetComponent<RivalCatFSM>();
-                if (rival != null)
+                if (obj.CompareTag("Enemy"))
                 {
-                    rival.KenaJurusMelas();
-                    Debug.Log("Kucing Judes: 'Ih apaan sih gajelas', lalu pergi.");
+                    RivalCatFSM rival = obj.GetComponent<RivalCatFSM>();
+                    if (rival != null) rival.KenaJurusMelas();
                 }
             }
         }
+    }
+
+    public void TombolJump() // Tombol Lompat
+    {
+        Debug.Log("Kucel melompat! (Fitur lompat aktif)");
+        // Karena game top-down, lompat biasanya berupa 'Dash' ke depan.
+        // Nanti kita tambahkan fisika lompatnya jika rintangan sudah siap.
     }
 
     // --- FITUR MAKAN UBI ---
@@ -79,26 +105,8 @@ public class KucelController : MonoBehaviour
         if (collision.CompareTag("Ubi"))
         {
             Destroy(collision.gameObject); 
-            MisiSelesai();
+            if (winPanel != null) winPanel.SetActive(true);
+            Time.timeScale = 0f; 
         }
-    }
-
-    void MisiSelesai()
-    {
-        Debug.Log("Nyam! Ubi Cilembu mantap.");
-        
-        if (winPanel != null)
-        {
-            winPanel.SetActive(true);
-        }
-
-        Time.timeScale = 0f; 
-    }
-
-    // (Opsional) Menggambar garis lingkaran radius melas di Editor Unity
-    void OnDrawGizmosSelected()
-    {
-        Gizmos.color = Color.yellow;
-        Gizmos.DrawWireSphere(transform.position, melasRadius);
     }
 }
