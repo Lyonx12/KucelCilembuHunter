@@ -1,0 +1,5935 @@
+fileFormatVersion: 2
+guid: 48827ed794bcbfb4c86c6b11e5bc7a87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4586625007437285067
+    second: Kucel Ekspresi_0
+  - first:
+      213: 1781701688791815300
+    second: Kucel Ekspresi_1
+  - first:
+      213: -2637843290363183989
+    second: Kucel Ekspresi_2
+  - first:
+      213: -782368951663539378
+    second: Kucel Ekspresi_3
+  - first:
+      213: 1321268207418002431
+    second: Kucel Ekspresi_4
+  - first:
+      213: -2333988942277062104
+    second: Kucel Ekspresi_5
+  - first:
+      213: 5111942947861659048
+    second: Kucel Ekspresi_6
+  - first:
+      213: -3840425120037229254
+    second: Kucel Ekspresi_7
+  - first:
+      213: -3643386605537846555
+    second: Kucel Ekspresi_8
+  - first:
+      213: -6810075121866022421
+    second: Kucel Ekspresi_9
+  - first:
+      213: 3730205799616987506
+    second: Kucel Ekspresi_10
+  - first:
+      213: 1858218302130020234
+    second: Kucel Ekspresi_11
+  - first:
+      213: -5134350295581707400
+    second: Kucel Ekspresi_12
+  - first:
+      213: -7904779042438207427
+    second: Kucel Ekspresi_13
+  - first:
+      213: -8556546783515151754
+    second: Kucel Ekspresi_14
+  - first:
+      213: 1673682431251715337
+    second: Kucel Ekspresi_15
+  - first:
+      213: -1608423395366174912
+    second: Kucel Ekspresi_16
+  - first:
+      213: -7299818576774672266
+    second: Kucel Ekspresi_17
+  - first:
+      213: -8136072767327636726
+    second: Kucel Ekspresi_18
+  - first:
+      213: 1814695920742029869
+    second: Kucel Ekspresi_19
+  - first:
+      213: 3774868109591389283
+    second: Kucel Ekspresi_20
+  - first:
+      213: -8746848865457933260
+    second: Kucel Ekspresi_21
+  - first:
+      213: -2529234409968923581
+    second: Kucel Ekspresi_22
+  - first:
+      213: 7889456646469961190
+    second: Kucel Ekspresi_23
+  - first:
+      213: -6316911841548395499
+    second: Kucel Ekspresi_24
+  - first:
+      213: 6566965753078908663
+    second: Kucel Ekspresi_25
+  - first:
+      213: -2492114134404818720
+    second: Kucel Ekspresi_26
+  - first:
+      213: -1244034033384740618
+    second: Kucel Ekspresi_27
+  - first:
+      213: -7177587435570814565
+    second: Kucel Ekspresi_28
+  - first:
+      213: 980681777115501423
+    second: Kucel Ekspresi_29
+  - first:
+      213: -7330542749423860153
+    second: Kucel Ekspresi_30
+  - first:
+      213: -6193223060293819823
+    second: Kucel Ekspresi_31
+  - first:
+      213: 9113628509542891587
+    second: Kucel Ekspresi_32
+  - first:
+      213: 1393108344140043087
+    second: Kucel Ekspresi_33
+  - first:
+      213: -3753782361785351753
+    second: Kucel Ekspresi_34
+  - first:
+      213: -7753707188456281703
+    second: Kucel Ekspresi_35
+  - first:
+      213: 817902069700229152
+    second: Kucel Ekspresi_36
+  - first:
+      213: 1737134027037816065
+    second: Kucel Ekspresi_37
+  - first:
+      213: -3011627856339619715
+    second: Kucel Ekspresi_38
+  - first:
+      213: -3330860461338406945
+    second: Kucel Ekspresi_39
+  - first:
+      213: 6696110558682282720
+    second: Kucel Ekspresi_40
+  - first:
+      213: 8245849752658328611
+    second: Kucel Ekspresi_41
+  - first:
+      213: -2882254005762830076
+    second: Kucel Ekspresi_42
+  - first:
+      213: 9180758315022619652
+    second: Kucel Ekspresi_43
+  - first:
+      213: 1184061937284033836
+    second: Kucel Ekspresi_44
+  - first:
+      213: 3529056716162415449
+    second: Kucel Ekspresi_45
+  - first:
+      213: 1194798691575098270
+    second: Kucel Ekspresi_46
+  - first:
+      213: 5638401893154327068
+    second: Kucel Ekspresi_47
+  - first:
+      213: 1834667635312879570
+    second: Kucel Ekspresi_48
+  - first:
+      213: -8499918598180810018
+    second: Kucel Ekspresi_49
+  - first:
+      213: -7380849463118702413
+    second: Kucel Ekspresi_50
+  - first:
+      213: -4936254807698310007
+    second: Kucel Ekspresi_51
+  - first:
+      213: 5969786237644423456
+    second: Kucel Ekspresi_52
+  - first:
+      213: -9124215917447017273
+    second: Kucel Ekspresi_53
+  - first:
+      213: -3402893197148555139
+    second: Kucel Ekspresi_54
+  - first:
+      213: 7188300448719507022
+    second: Kucel Ekspresi_55
+  - first:
+      213: 4166826594647232094
+    second: Kucel Ekspresi_56
+  - first:
+      213: -5104572293961995808
+    second: Kucel Ekspresi_57
+  - first:
+      213: 4684666072856976982
+    second: Kucel Ekspresi_58
+  - first:
+      213: 3969578242688067135
+    second: Kucel Ekspresi_59
+  - first:
+      213: -8188983088675086665
+    second: Kucel Ekspresi_60
+  - first:
+      213: -1959650814438282168
+    second: Kucel Ekspresi_61
+  - first:
+      213: 8222840956589662847
+    second: Kucel Ekspresi_62
+  - first:
+      213: -9109185034156287080
+    second: Kucel Ekspresi_63
+  - first:
+      213: 5279803389720329654
+    second: Kucel Ekspresi_64
+  - first:
+      213: 6528088446488430376
+    second: Kucel Ekspresi_65
+  - first:
+      213: 2193012865294181027
+    second: Kucel Ekspresi_66
+  - first:
+      213: 7178369055920039777
+    second: Kucel Ekspresi_67
+  - first:
+      213: -3476954631839075653
+    second: Kucel Ekspresi_68
+  - first:
+      213: -668851245520563013
+    second: Kucel Ekspresi_69
+  - first:
+      213: -2026019718739186645
+    second: Kucel Ekspresi_70
+  - first:
+      213: -8812687351536398703
+    second: Kucel Ekspresi_71
+  - first:
+      213: 8317421811349282158
+    second: Kucel Ekspresi_72
+  - first:
+      213: 6270554381255560835
+    second: Kucel Ekspresi_73
+  - first:
+      213: 3247093619734885286
+    second: Kucel Ekspresi_74
+  - first:
+      213: -1956528229708246241
+    second: Kucel Ekspresi_75
+  - first:
+      213: 7650762574992580853
+    second: Kucel Ekspresi_76
+  - first:
+      213: -8681401559903766456
+    second: Kucel Ekspresi_77
+  - first:
+      213: -1739065265321079432
+    second: Kucel Ekspresi_78
+  - first:
+      213: 470031653958893442
+    second: Kucel Ekspresi_79
+  - first:
+      213: -5203029201376630364
+    second: Kucel Ekspresi_80
+  - first:
+      213: 953898229944840996
+    second: Kucel Ekspresi_81
+  - first:
+      213: 3753758067926996586
+    second: Kucel Ekspresi_82
+  - first:
+      213: -3139305590045718264
+    second: Kucel Ekspresi_83
+  - first:
+      213: 1845614147366001203
+    second: Kucel Ekspresi_84
+  - first:
+      213: -6522217782220285605
+    second: Kucel Ekspresi_85
+  - first:
+      213: -1600740937968969715
+    second: Kucel Ekspresi_86
+  - first:
+      213: 632519643904304803
+    second: Kucel Ekspresi_87
+  - first:
+      213: 8627939136365765226
+    second: Kucel Ekspresi_88
+  - first:
+      213: -6435220249797193081
+    second: Kucel Ekspresi_89
+  - first:
+      213: -6316449419966844702
+    second: Kucel Ekspresi_90
+  - first:
+      213: -8860950783631391783
+    second: Kucel Ekspresi_91
+  - first:
+      213: 5027753372383494133
+    second: Kucel Ekspresi_92
+  - first:
+      213: 5713144130394106134
+    second: Kucel Ekspresi_93
+  - first:
+      213: 3586486834306363117
+    second: Kucel Ekspresi_94
+  - first:
+      213: 5747453301133108467
+    second: Kucel Ekspresi_95
+  - first:
+      213: -6193455120074737106
+    second: Kucel Ekspresi_96
+  - first:
+      213: 2416208390942004977
+    second: Kucel Ekspresi_97
+  - first:
+      213: 25810587732998173
+    second: Kucel Ekspresi_98
+  - first:
+      213: 5235816610966595632
+    second: Kucel Ekspresi_99
+  - first:
+      213: 252236910901250897
+    second: Kucel Ekspresi_100
+  - first:
+      213: 8148410360809328602
+    second: Kucel Ekspresi_101
+  - first:
+      213: 1717013120314479354
+    second: Kucel Ekspresi_102
+  - first:
+      213: 4614113437341556267
+    second: Kucel Ekspresi_103
+  - first:
+      213: -5005863003975903219
+    second: Kucel Ekspresi_104
+  - first:
+      213: -3514141115562701703
+    second: Kucel Ekspresi_105
+  - first:
+      213: -6436514354218839759
+    second: Kucel Ekspresi_106
+  - first:
+      213: -6293665880653371876
+    second: Kucel Ekspresi_107
+  - first:
+      213: -7287577794790540344
+    second: Kucel Ekspresi_108
+  - first:
+      213: 5238931121133811194
+    second: Kucel Ekspresi_109
+  - first:
+      213: -6206740985980106032
+    second: Kucel Ekspresi_110
+  - first:
+      213: -8552446971382339364
+    second: Kucel Ekspresi_111
+  - first:
+      213: 4685724613526476231
+    second: Kucel Ekspresi_112
+  - first:
+      213: 2365908289837054649
+    second: Kucel Ekspresi_113
+  - first:
+      213: -7243566158159782065
+    second: Kucel Ekspresi_114
+  - first:
+      213: 315524186182061465
+    second: Kucel Ekspresi_115
+  - first:
+      213: -7760792611671889612
+    second: Kucel Ekspresi_116
+  - first:
+      213: 4476052174961698741
+    second: Kucel Ekspresi_117
+  - first:
+      213: -3854607820439866370
+    second: Kucel Ekspresi_118
+  - first:
+      213: -885359362019678814
+    second: Kucel Ekspresi_119
+  - first:
+      213: 7992929097328335545
+    second: Kucel Ekspresi_120
+  - first:
+      213: 2219652951924807298
+    second: Kucel Ekspresi_121
+  - first:
+      213: 1412886852984093839
+    second: Kucel Ekspresi_122
+  - first:
+      213: 9028790230093172654
+    second: Kucel Ekspresi_123
+  - first:
+      213: 2760425594273341264
+    second: Kucel Ekspresi_124
+  - first:
+      213: -8952247733537667560
+    second: Kucel Ekspresi_125
+  - first:
+      213: -1400481253548375236
+    second: Kucel Ekspresi_126
+  - first:
+      213: 8884957444820985909
+    second: Kucel Ekspresi_127
+  - first:
+      213: -1274523123755622948
+    second: Kucel Ekspresi_128
+  - first:
+      213: -8428946687659482972
+    second: Kucel Ekspresi_129
+  - first:
+      213: -6866729688024260439
+    second: Kucel Ekspresi_130
+  - first:
+      213: 6596172892548488834
+    second: Kucel Ekspresi_131
+  - first:
+      213: -8019191898401786581
+    second: Kucel Ekspresi_132
+  - first:
+      213: -4107850452301542263
+    second: Kucel Ekspresi_133
+  - first:
+      213: -922415561049461097
+    second: Kucel Ekspresi_134
+  - first:
+      213: 5720708729887455086
+    second: Kucel Ekspresi_135
+  - first:
+      213: -149150286417264968
+    second: Kucel Ekspresi_136
+  - first:
+      213: 2712636469342867726
+    second: Kucel Ekspresi_137
+  - first:
+      213: 1632381389234116472
+    second: Kucel Ekspresi_138
+  - first:
+      213: 8065574376367887246
+    second: Kucel Ekspresi_139
+  - first:
+      213: -8281405468927738106
+    second: Kucel Ekspresi_140
+  - first:
+      213: -8687031531565805659
+    second: Kucel Ekspresi_141
+  - first:
+      213: -4116897414668469456
+    second: Kucel Ekspresi_142
+  - first:
+      213: 2361817484940859028
+    second: Kucel Ekspresi_143
+  - first:
+      213: 788894211413323730
+    second: Kucel Ekspresi_144
+  - first:
+      213: -8369324631412069534
+    second: Kucel Ekspresi_145
+  - first:
+      213: 1049083515734919346
+    second: Kucel Ekspresi_146
+  - first:
+      213: 2208203768059994071
+    second: Kucel Ekspresi_147
+  - first:
+      213: 1938453908586192239
+    second: Kucel Ekspresi_148
+  - first:
+      213: 2472845450673652113
+    second: Kucel Ekspresi_149
+  - first:
+      213: 4346878428914510941
+    second: Kucel Ekspresi_150
+  - first:
+      213: -8734223039140404300
+    second: Kucel Ekspresi_151
+  - first:
+      213: 7162825281643390002
+    second: Kucel Ekspresi_152
+  - first:
+      213: -7397510927402575697
+    second: Kucel Ekspresi_153
+  - first:
+      213: 6299279840766050598
+    second: Kucel Ekspresi_154
+  - first:
+      213: -156946216858262900
+    second: Kucel Ekspresi_155
+  - first:
+      213: 3537582799951169438
+    second: Kucel Ekspresi_156
+  - first:
+      213: -3174291022594407022
+    second: Kucel Ekspresi_157
+  - first:
+      213: 6097832189524123964
+    second: Kucel Ekspresi_158
+  - first:
+      213: 6568835536736894423
+    second: Kucel Ekspresi_159
+  - first:
+      213: -1237860580152805545
+    second: Kucel Ekspresi_160
+  - first:
+      213: 4604671557469043910
+    second: Kucel Ekspresi_161
+  - first:
+      213: 2911184893313712505
+    second: Kucel Ekspresi_162
+  - first:
+      213: 7685791357329891258
+    second: Kucel Ekspresi_163
+  - first:
+      213: -5768436008877276629
+    second: Kucel Ekspresi_164
+  - first:
+      213: -8860488619850342000
+    second: Kucel Ekspresi_165
+  - first:
+      213: 7285830653896892329
+    second: Kucel Ekspresi_166
+  - first:
+      213: -3225236158986724466
+    second: Kucel Ekspresi_167
+  - first:
+      213: -5752573181100110136
+    second: Kucel Ekspresi_168
+  - first:
+      213: -7010593886147897949
+    second: Kucel Ekspresi_169
+  - first:
+      213: -4304398479629439148
+    second: Kucel Ekspresi_170
+  - first:
+      213: -6798082877012523645
+    second: Kucel Ekspresi_171
+  - first:
+      213: 5387590745696725634
+    second: Kucel Ekspresi_172
+  - first:
+      213: -5440706437214300215
+    second: Kucel Ekspresi_173
+  - first:
+      213: -4273053404017537846
+    second: Kucel Ekspresi_174
+  - first:
+      213: 7937337994641978377
+    second: Kucel Ekspresi_175
+  - first:
+      213: 6544688115139550135
+    second: Kucel Ekspresi_176
+  - first:
+      213: 8857505382953382390
+    second: Kucel Ekspresi_177
+  - first:
+      213: 4563337204752123755
+    second: Kucel Ekspresi_178
+  - first:
+      213: 5338931172184242350
+    second: Kucel Ekspresi_179
+  - first:
+      213: 3256050892265865574
+    second: Kucel Ekspresi_180
+  - first:
+      213: -3838476662280870673
+    second: Kucel Ekspresi_181
+  - first:
+      213: -4135892570063510230
+    second: Kucel Ekspresi_182
+  - first:
+      213: -8558126800596306288
+    second: Kucel Ekspresi_183
+  - first:
+      213: 5448861068111236970
+    second: Kucel Ekspresi_184
+  - first:
+      213: 6702255666976822069
+    second: Kucel Ekspresi_185
+  - first:
+      213: 2922507438458479674
+    second: Kucel Ekspresi_186
+  - first:
+      213: 6255614607180556678
+    second: Kucel Ekspresi_187
+  - first:
+      213: -4444280094045979676
+    second: Kucel Ekspresi_188
+  - first:
+      213: -3705693032248027514
+    second: Kucel Ekspresi_189
+  - first:
+      213: -1319724117448453252
+    second: Kucel Ekspresi_190
+  - first:
+      213: 5058131002570703491
+    second: Kucel Ekspresi_191
+  - first:
+      213: -4544619158382815967
+    second: Kucel Ekspresi_192
+  - first:
+      213: -5505183130553800918
+    second: Kucel Ekspresi_193
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kucel Ekspresi_0
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 963
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539f6c15bd80950c0800000000000000
+      internalID: -4586625007437285067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 969
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48456200f30e9b810800000000000000
+      internalID: 1781701688791815300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 970
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c31c8d08f746bd0800000000000000
+      internalID: -2637843290363183989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_3
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 954
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bccc865977425f0800000000000000
+      internalID: -782368951663539378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_4
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 968
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbca2c2f66165210800000000000000
+      internalID: 1321268207418002431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_5
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 970
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822d2e94c610c9fd0800000000000000
+      internalID: -2333988942277062104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_6
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 993
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad7b5fd60541f640800000000000000
+      internalID: 5111942947861659048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_7
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 967
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3da1b563b114bac0800000000000000
+      internalID: -3840425120037229254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_8
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 965
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea108d8f27107dc0800000000000000
+      internalID: -3643386605537846555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_9
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 970
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1637b02c0cd71a0800000000000000
+      internalID: -6810075121866022421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_10
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 955
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271c549496a54c330800000000000000
+      internalID: 3730205799616987506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_11
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 968
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fd69553b7b9c910800000000000000
+      internalID: 1858218302130020234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 951
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8733e6feb9f1fb8b0800000000000000
+      internalID: -5134350295581707400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 959
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38a48b97559c4290800000000000000
+      internalID: -7904779042438207427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 967
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6727190f80a014980800000000000000
+      internalID: -8556546783515151754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_15
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 968
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905129dbd4d1a3710800000000000000
+      internalID: 1673682431251715337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_16
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 965
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f75c6917bbda9e0800000000000000
+      internalID: -1608423395366174912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_17
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 957
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6705c863ea5d1ba90800000000000000
+      internalID: -7299818576774672266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_18
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 958
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03f4b4ccecd61f80800000000000000
+      internalID: -8136072767327636726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_19
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 958
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2add2343581f2910800000000000000
+      internalID: 1814695920742029869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_20
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 958
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364252aab86036430800000000000000
+      internalID: 3774868109591389283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_21
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 962
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434f956bc43fc9680800000000000000
+      internalID: -8746848865457933260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_22
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 949
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c8b1064ba56ecd0800000000000000
+      internalID: -2529234409968923581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_23
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 962
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5cfa3150bfc7d60800000000000000
+      internalID: 7889456646469961190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_24
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 970
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c9c070622d558a0800000000000000
+      internalID: -6316911841548395499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_25
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 959
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f68c642f8c822b50800000000000000
+      internalID: 6566965753078908663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_26
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 979
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e81217066b3a6dd0800000000000000
+      internalID: -2492114134404818720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_27
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 961
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f82b9743ad4cbee0800000000000000
+      internalID: -1244034033384740618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_28
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 962
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91ae7e7146146c90800000000000000
+      internalID: -7177587435570814565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_29
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 965
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f631ba261e41c9d00800000000000000
+      internalID: 980681777115501423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_30
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 966
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74686c1553ea44a90800000000000000
+      internalID: -7330542749423860153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_31
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 963
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152ed6490704d0aa0800000000000000
+      internalID: -6193223060293819823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_32
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 960
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3404d26e7dc1a7e70800000000000000
+      internalID: 9113628509542891587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_33
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 963
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43991278a0555310800000000000000
+      internalID: 1393108344140043087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_34
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 960
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b148a194d2e7ebc0800000000000000
+      internalID: -3753782361785351753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_35
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 961
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999abab946c456490800000000000000
+      internalID: -7753707188456281703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_36
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 966
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028f9855995c95b00800000000000000
+      internalID: 817902069700229152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_37
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 960
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10535d0a13a8b1810800000000000000
+      internalID: 1737134027037816065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_38
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 956
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70b433cb6c8436d0800000000000000
+      internalID: -3011627856339619715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_39
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 757
+        width: 182
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfc78dde0866c1d0800000000000000
+      internalID: -3330860461338406945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_40
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 756
+        width: 204
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eafffa531d5dec50800000000000000
+      internalID: 6696110558682282720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_41
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 951
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c317269a42f6270800000000000000
+      internalID: 8245849752658328611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_42
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 757
+        width: 222
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4015f0aa04d2008d0800000000000000
+      internalID: -2882254005762830076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_43
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 913
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40413a7bb0b986f70800000000000000
+      internalID: 9180758315022619652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_44
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 757
+        width: 184
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d20ebfe02ae6010800000000000000
+      internalID: 1184061937284033836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_45
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 758
+        width: 182
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b3117b26ab9f030800000000000000
+      internalID: 3529056716162415449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_46
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 884
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b6f656417c49010800000000000000
+      internalID: 1194798691575098270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 889
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a8a56f5a0af3e40800000000000000
+      internalID: 5638401893154327068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_48
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 867
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7eabb6e7c067910800000000000000
+      internalID: 1834667635312879570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_49
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 894
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed252b7c1193a0a80800000000000000
+      internalID: -8499918598180810018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_50
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 899
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b85d2ac484f19990800000000000000
+      internalID: -7380849463118702413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_51
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 876
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cf352e766ee7bb0800000000000000
+      internalID: -4936254807698310007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_52
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 888
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021cfcf24f0f8d250800000000000000
+      internalID: 5969786237644423456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_53
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 872
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc0b9a17f5406180800000000000000
+      internalID: -9124215917447017273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_54
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 881
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78fd5f9aae76c0d0800000000000000
+      internalID: -3402893197148555139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_55
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 872
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e05b04c29f1c360800000000000000
+      internalID: 7188300448719507022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_56
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 865
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e499606ba83d930800000000000000
+      internalID: 4166826594647232094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_57
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 839
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e928183b8ae829b0800000000000000
+      internalID: -5104572293961995808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_58
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 841
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ed6fb09f6430140800000000000000
+      internalID: 4684666072856976982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_59
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 850
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36aa874166c61730800000000000000
+      internalID: 3969578242688067135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_60
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 847
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be17d79443ea5e80800000000000000
+      internalID: -8188983088675086665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_61
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 834
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ce99987fbedc4e0800000000000000
+      internalID: -1959650814438282168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_62
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 814
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f726f0698466d1270800000000000000
+      internalID: 8222840956589662847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_63
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 814
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b5fc5597ca59180800000000000000
+      internalID: -9109185034156287080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_64
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 804
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdfe289531a54940800000000000000
+      internalID: 5279803389720329654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_65
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 813
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8274643dadd689a50800000000000000
+      internalID: 6528088446488430376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_66
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 698
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2a8b7f4952f6e10800000000000000
+      internalID: 2193012865294181027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_67
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 701
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16725ccaf90be9360800000000000000
+      internalID: 7178369055920039777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_68
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 695
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2351d1f206fbfc0800000000000000
+      internalID: -3476954631839075653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_69
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 705
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb45b2ff553c7b6f0800000000000000
+      internalID: -668851245520563013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_70
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 705
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c2d94dcc122e3e0800000000000000
+      internalID: -2026019718739186645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_71
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 702
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e481f9b8b03b580800000000000000
+      internalID: -8812687351536398703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_72
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 709
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d5f80e11b6d6370800000000000000
+      internalID: 8317421811349282158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_73
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 695
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ec187acfb750750800000000000000
+      internalID: 6270554381255560835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_74
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 697
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a33cbc717eff0d20800000000000000
+      internalID: 3247093619734885286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_75
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 697
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f135733f0f309d4e0800000000000000
+      internalID: -1956528229708246241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_76
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 697
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f02947c608fc2a60800000000000000
+      internalID: 7650762574992580853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_77
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 695
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848f96df647758780800000000000000
+      internalID: -8681401559903766456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_78
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 703
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d015bea599dd7e0800000000000000
+      internalID: -1739065265321079432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_79
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 695
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fb8678c43e58600800000000000000
+      internalID: 470031653958893442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_80
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 709
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a926f712802bc7b0800000000000000
+      internalID: -5203029201376630364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_81
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 709
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4237cbbd26dec3d00800000000000000
+      internalID: 953898229944840996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_82
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 700
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a669b831317081430800000000000000
+      internalID: 3753758067926996586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_83
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 709
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8094de7d232fe64d0800000000000000
+      internalID: -3139305590045718264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_84
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 707
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a9f2ed940fc9910800000000000000
+      internalID: 1845614147366001203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_85
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 698
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b591607bb7d6c75a0800000000000000
+      internalID: -6522217782220285605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_86
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 695
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d081fe6199609c9e0800000000000000
+      internalID: -1600740937968969715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_87
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 687
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a66f50d34927c800800000000000000
+      internalID: 632519643904304803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_88
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 699
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62a5c68ee89cb770800000000000000
+      internalID: 8627939136365765226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_89
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 699
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782107f274181b6a0800000000000000
+      internalID: -6435220249797193081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_90
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 697
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e07721f7b67758a0800000000000000
+      internalID: -6316449419966844702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_91
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 704
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d38e69a534970580800000000000000
+      internalID: -8860950783631391783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_92
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 692
+        width: 11
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffb033dd0b26c540800000000000000
+      internalID: 5027753372383494133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_93
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 694
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619afba215a294f40800000000000000
+      internalID: 5713144130394106134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_94
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 696
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee227616c2c5c130800000000000000
+      internalID: 3586486834306363117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_95
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 705
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f46f29735e03cf40800000000000000
+      internalID: 5747453301133108467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_96
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 704
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2afe93f16d6c0aa0800000000000000
+      internalID: -6193455120074737106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_97
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 703
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f69a6ddab8188120800000000000000
+      internalID: 2416208390942004977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_98
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 698
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18f441c792bb5000800000000000000
+      internalID: 25810587732998173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_99
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 499
+        width: 200
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038e0c5977b59a840800000000000000
+      internalID: 5235816610966595632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_100
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 693
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bc2815220208300800000000000000
+      internalID: 252236910901250897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_101
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 501
+        width: 191
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf07201d08f41170800000000000000
+      internalID: 8148410360809328602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_102
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 694
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af29707f55e04d710800000000000000
+      internalID: 1717013120314479354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_103
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 695
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e991289bf980040800000000000000
+      internalID: 4614113437341556267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_104
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 694
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d081fbdbe1a978ab0800000000000000
+      internalID: -5005863003975903219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_105
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 692
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c4a4c26434b3fc0800000000000000
+      internalID: -3514141115562701703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_106
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 644
+        width: 7
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13155150c48eca6a0800000000000000
+      internalID: -6436514354218839759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_107
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 631
+        width: 6
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16e8a01a3868a8a0800000000000000
+      internalID: -6293665880653371876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_108
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 618
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb3c7c5b925dda90800000000000000
+      internalID: -7287577794790540344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_109
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 499
+        width: 177
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af57bedf81c64b840800000000000000
+      internalID: 5238931121133811194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_110
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 627
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da4ccd35f93dd9a0800000000000000
+      internalID: -6206740985980106032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_111
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 499
+        width: 188
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8e366daca9f4980800000000000000
+      internalID: -8552446971382339364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_112
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 646
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5dc80c5b9070140800000000000000
+      internalID: 4685724613526476231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_113
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 501
+        width: 193
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bab3e2fd0565d020800000000000000
+      internalID: 2365908289837054649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_114
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 649
+        width: 6
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f58db05fea97b90800000000000000
+      internalID: -7243566158159782065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_115
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 612
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d0d6b5397f06400800000000000000
+      internalID: 315524186182061465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_116
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 604
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43922d5fc302c4490800000000000000
+      internalID: -7760792611671889612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_117
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 448
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7e4bcecb12e1e30800000000000000
+      internalID: 4476052174961698741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_118
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 452
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef33d322c9ea18ac0800000000000000
+      internalID: -3854607820439866370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_119
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 455
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a52040e95296b3f0800000000000000
+      internalID: -885359362019678814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_120
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 455
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba93296aa69cee60800000000000000
+      internalID: 7992929097328335545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_121
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 455
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286102c799acdce10800000000000000
+      internalID: 2219652951924807298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_122
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 460
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cbfe36b159b9310800000000000000
+      internalID: 1412886852984093839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_123
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 449
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf8830b0e4bc4d70800000000000000
+      internalID: 9028790230093172654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_124
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 451
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f1f8fd3700f4620800000000000000
+      internalID: 2760425594273341264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_125
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 450
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816013d0e1a33c380800000000000000
+      internalID: -8952247733537667560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_126
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 449
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33c7af48bd709ce0800000000000000
+      internalID: -1400481253548375236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_127
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 455
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5386407b8b5bd4b70800000000000000
+      internalID: 8884957444820985909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_128
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 444
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd568eb8fbff4ee0800000000000000
+      internalID: -1274523123755622948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_129
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 450
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0e95365ad560b80800000000000000
+      internalID: -8428946687659482972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_130
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 469
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a06fa0fab974b0a0800000000000000
+      internalID: -6866729688024260439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_131
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 442
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ed9693c405a8b50800000000000000
+      internalID: 6596172892548488834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_132
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 445
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b253216b47b16b090800000000000000
+      internalID: -8019191898401786581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_133
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 453
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c832827cbfdf6c0800000000000000
+      internalID: -4107850452301542263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_134
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 455
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79eaa543febe233f0800000000000000
+      internalID: -922415561049461097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_135
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 456
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67fa6cb74a046f40800000000000000
+      internalID: 5720708729887455086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_136
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 456
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be73ffca9c1eedf0800000000000000
+      internalID: -149150286417264968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_137
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 462
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0193f72f7835a520800000000000000
+      internalID: 2712636469342867726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_138
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 439
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877124b893267a610800000000000000
+      internalID: 1632381389234116472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_139
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 449
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8396ec792daeef60800000000000000
+      internalID: 8065574376367887246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_140
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 450
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fb59f4a99821d80800000000000000
+      internalID: -8281405468927738106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_141
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 451
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af076019d6717780800000000000000
+      internalID: -8687031531565805659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_142
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 450
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b36f51d97ddd6c0800000000000000
+      internalID: -4116897414668469456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_143
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 456
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496d4363d7cd6c020800000000000000
+      internalID: 2361817484940859028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_144
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 439
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df27a40b17b2fa00800000000000000
+      internalID: 788894211413323730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_145
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 445
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ba1ce179f2adb80800000000000000
+      internalID: -8369324631412069534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_146
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 452
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8091736e71f8e00800000000000000
+      internalID: 1049083515734919346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_147
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 446
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df15e2a0ad15ae10800000000000000
+      internalID: 2208203768059994071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_148
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 433
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d5fba3f85c6ea10800000000000000
+      internalID: 1938453908586192239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_149
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 459
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19108dfe5df415220800000000000000
+      internalID: 2472845450673652113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_150
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 454
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ce14d76e6335c30800000000000000
+      internalID: 4346878428914510941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_151
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 265
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3e00bfb6ec9c680800000000000000
+      internalID: -8734223039140404300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_152
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 447
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234aa84b4a7776360800000000000000
+      internalID: 7162825281643390002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_153
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 449
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa859165103c65990800000000000000
+      internalID: -7397510927402575697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_154
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 264
+        width: 152
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621c3a1e3a98b6750800000000000000
+      internalID: 6299279840766050598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_155
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 429
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82625f4f3a62ddf0800000000000000
+      internalID: -156946216858262900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_156
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 256
+        width: 194
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e970f9a40d4081130800000000000000
+      internalID: 3537582799951169438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_157
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 389
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2958c801227a2f3d0800000000000000
+      internalID: -3174291022594407022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_158
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 264
+        width: 148
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c312784911adf9450800000000000000
+      internalID: 6097832189524123964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_159
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 405
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd3a231e11392b50800000000000000
+      internalID: 6568835536736894423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_160
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 423
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757788e5c5c32dee0800000000000000
+      internalID: -1237860580152805545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_161
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 411
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc794a826417ef30800000000000000
+      internalID: 4604671557469043910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_162
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 419
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97182718c3b966820800000000000000
+      internalID: 2911184893313712505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_163
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 395
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf5a67b48a69aa60800000000000000
+      internalID: 7685791357329891258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_164
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 357
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b224c4d230662ffa0800000000000000
+      internalID: -5768436008877276629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_165
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 381
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091ed6d8b88390580800000000000000
+      internalID: -8860488619850342000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_166
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 273
+        width: 233
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af1d23b0687c1560800000000000000
+      internalID: 7285830653896892329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_167
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 363
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bd9da2dc8ad33d0800000000000000
+      internalID: -3225236158986724466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_168
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 338
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cec6149b21ca20b0800000000000000
+      internalID: -5752573181100110136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_169
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 349
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a511a7110e55be90800000000000000
+      internalID: -7010593886147897949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_170
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 346
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fa4f17364b344c0800000000000000
+      internalID: -4304398479629439148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_171
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 312
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385c00224ab58a1a0800000000000000
+      internalID: -6798082877012523645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_172
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 319
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a6f601d3194ca40800000000000000
+      internalID: 5387590745696725634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_173
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 276
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c719aa425abe74b0800000000000000
+      internalID: -5440706437214300215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_174
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 276
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accc243919013b4c0800000000000000
+      internalID: -4273053404017537846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_175
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 216
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904b8d03ad6172e60800000000000000
+      internalID: 7937337994641978377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_176
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 218
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb1d9c5a2763da50800000000000000
+      internalID: 6544688115139550135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_177
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 211
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1fb0b773e2cea70800000000000000
+      internalID: 8857505382953382390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_178
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 219
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b670397920b345f30800000000000000
+      internalID: 4563337204752123755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_179
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 220
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea83d4e3d91b71a40800000000000000
+      internalID: 5338931172184242350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_180
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 218
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661c9140901df2d20800000000000000
+      internalID: 3256050892265865574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_181
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 224
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe42f1210ddfabac0800000000000000
+      internalID: -3838476662280870673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_182
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 214
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25ef24de9b5a96c0800000000000000
+      internalID: -4135892570063510230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_183
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 216
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096f4bb840d6b3980800000000000000
+      internalID: -8558126800596306288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_184
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 216
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fc93ba54e3e9b40800000000000000
+      internalID: 5448861068111236970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_185
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 216
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5339000e402330d50800000000000000
+      internalID: 6702255666976822069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_186
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 215
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3421caf705de8820800000000000000
+      internalID: 2922507438458479674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_187
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 206
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689edb0775860d650800000000000000
+      internalID: 6255614607180556678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_188
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 215
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebbc002dceb252c0800000000000000
+      internalID: -4444280094045979676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_189
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 216
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686573e12dbb29cc0800000000000000
+      internalID: -3705693032248027514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_190
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 211
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7318f948e56fade0800000000000000
+      internalID: -1319724117448453252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_191
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 218
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3820e930957123640800000000000000
+      internalID: 5058131002570703491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_192
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 210
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125582134f44ee0c0800000000000000
+      internalID: -4544619158382815967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_193
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 208
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a272ed74c19a993b0800000000000000
+      internalID: -5505183130553800918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_194
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 207
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f35d8736a75a24dbba09ea50119de9
+      internalID: 1431093619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_195
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 216
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d7728b9f4dc5542abcead03d644e24
+      internalID: -600624321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_196
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 217
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9e29b4e2564134e9eeb451515c5b35
+      internalID: 340610311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_197
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 215
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbbf17946bf05b4bbf6b437cd1e1873
+      internalID: -1100277747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_198
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 204
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08074f3c0c8fb34f8fda96c37b09558
+      internalID: -1303231505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_199
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 203
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730beb47cfe3de04babe8609e7ae99a4
+      internalID: -316114018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_200
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 209
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a9e0c787b07bb4088dce8ff3834c31
+      internalID: 1618470499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_201
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 208
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621bc704e9a10de48ba47a5b8cf019d9
+      internalID: 685086624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_202
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 206
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0265d7c09cfaf0a4ebf2aef3a0d21fb7
+      internalID: -1678015515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_203
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 208
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622cdd0a7c0bca3428577f12c54c0dc1
+      internalID: 142546423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_204
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 211
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbec734147d102644a617288d9f35103
+      internalID: -2138017618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_205
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 210
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14bb171f85d7d1478a6d5afbf870f0e
+      internalID: 687105501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_206
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 207
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f44faeb07f92d408652598ed4510ed
+      internalID: 1585662541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_207
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 216
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07f29d2f567a3c4e9bec9941ff1befd
+      internalID: 1556638481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_208
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 25
+        width: 168
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be8b7cef16964c41ad099612d0c81dd
+      internalID: -279717982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_209
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 26
+        width: 158
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1626706941941604ea569b37af026599
+      internalID: -813346059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_210
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 153
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f435bce3795fc449d4b1ce255b4616
+      internalID: 2049899228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_211
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 20
+        width: 166
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387cff35ad4c06447ab61ef8e4caeb54
+      internalID: -298437976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_212
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 22
+        width: 141
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a08375862594646ad751c4f1d66992
+      internalID: 1095683194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_213
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 175
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74f39d377faf3c4c8f86c314487a27d
+      internalID: 916952409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_214
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 26
+        width: 151
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20393043e23a4a42b2b5d3b599c6dfc
+      internalID: 750022392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_215
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 151
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2e549bd630c2349a3bfb72b95e6501
+      internalID: -1821156507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_216
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 19
+        width: 134
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ff316886a476741baaa7a74f637221
+      internalID: 2061897957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_217
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 169
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eee4cb70e2f6f140aec104d4302d3e3
+      internalID: -2129123396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_218
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 152
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35df383b70dcd764ba851b0ea72f4b6d
+      internalID: -1686004891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_219
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 158
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e03fbcd04dc6549828391a2c334be9
+      internalID: -1374738096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_220
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 159
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547a348dcd7bf8846b4b1486be40b21a
+      internalID: 1275377320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_221
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 127
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d5617bdab934548b47e08b552c1e7a
+      internalID: 1439066572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_222
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 122
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f03bf3530965754783df5bc0ce31766
+      internalID: -1470320496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_223
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 134
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19970254b6cb4354d9b25369a7992f6f
+      internalID: 771086781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_224
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 147
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741b84ee1d4993a4ba261f5a3db05d39
+      internalID: 1446204550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_225
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 125
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321ecdcf5364b35419f745a1f13fe549
+      internalID: 1581256704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kucel Ekspresi_226
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 106
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a6ee69bc61d4c4894b165fec60f5aa
+      internalID: -96801107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cdb6e2a0c869054448c85551b6e11b7a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Kucel Ekspresi_0: -4586625007437285067
+      Kucel Ekspresi_1: 1781701688791815300
+      Kucel Ekspresi_10: 3730205799616987506
+      Kucel Ekspresi_100: 252236910901250897
+      Kucel Ekspresi_101: 8148410360809328602
+      Kucel Ekspresi_102: 1717013120314479354
+      Kucel Ekspresi_103: 4614113437341556267
+      Kucel Ekspresi_104: -5005863003975903219
+      Kucel Ekspresi_105: -3514141115562701703
+      Kucel Ekspresi_106: -6436514354218839759
+      Kucel Ekspresi_107: -6293665880653371876
+      Kucel Ekspresi_108: -7287577794790540344
+      Kucel Ekspresi_109: 5238931121133811194
+      Kucel Ekspresi_11: 1858218302130020234
+      Kucel Ekspresi_110: -6206740985980106032
+      Kucel Ekspresi_111: -8552446971382339364
+      Kucel Ekspresi_112: 4685724613526476231
+      Kucel Ekspresi_113: 2365908289837054649
+      Kucel Ekspresi_114: -7243566158159782065
+      Kucel Ekspresi_115: 315524186182061465
+      Kucel Ekspresi_116: -7760792611671889612
+      Kucel Ekspresi_117: 4476052174961698741
+      Kucel Ekspresi_118: -3854607820439866370
+      Kucel Ekspresi_119: -885359362019678814
+      Kucel Ekspresi_12: -5134350295581707400
+      Kucel Ekspresi_120: 7992929097328335545
+      Kucel Ekspresi_121: 2219652951924807298
+      Kucel Ekspresi_122: 1412886852984093839
+      Kucel Ekspresi_123: 9028790230093172654
+      Kucel Ekspresi_124: 2760425594273341264
+      Kucel Ekspresi_125: -8952247733537667560
+      Kucel Ekspresi_126: -1400481253548375236
+      Kucel Ekspresi_127: 8884957444820985909
+      Kucel Ekspresi_128: -1274523123755622948
+      Kucel Ekspresi_129: -8428946687659482972
+      Kucel Ekspresi_13: -7904779042438207427
+      Kucel Ekspresi_130: -6866729688024260439
+      Kucel Ekspresi_131: 6596172892548488834
+      Kucel Ekspresi_132: -8019191898401786581
+      Kucel Ekspresi_133: -4107850452301542263
+      Kucel Ekspresi_134: -922415561049461097
+      Kucel Ekspresi_135: 5720708729887455086
+      Kucel Ekspresi_136: -149150286417264968
+      Kucel Ekspresi_137: 2712636469342867726
+      Kucel Ekspresi_138: 1632381389234116472
+      Kucel Ekspresi_139: 8065574376367887246
+      Kucel Ekspresi_14: -8556546783515151754
+      Kucel Ekspresi_140: -8281405468927738106
+      Kucel Ekspresi_141: -8687031531565805659
+      Kucel Ekspresi_142: -4116897414668469456
+      Kucel Ekspresi_143: 2361817484940859028
+      Kucel Ekspresi_144: 788894211413323730
+      Kucel Ekspresi_145: -8369324631412069534
+      Kucel Ekspresi_146: 1049083515734919346
+      Kucel Ekspresi_147: 2208203768059994071
+      Kucel Ekspresi_148: 1938453908586192239
+      Kucel Ekspresi_149: 2472845450673652113
+      Kucel Ekspresi_15: 1673682431251715337
+      Kucel Ekspresi_150: 4346878428914510941
+      Kucel Ekspresi_151: -8734223039140404300
+      Kucel Ekspresi_152: 7162825281643390002
+      Kucel Ekspresi_153: -7397510927402575697
+      Kucel Ekspresi_154: 6299279840766050598
+      Kucel Ekspresi_155: -156946216858262900
+      Kucel Ekspresi_156: 3537582799951169438
+      Kucel Ekspresi_157: -3174291022594407022
+      Kucel Ekspresi_158: 6097832189524123964
+      Kucel Ekspresi_159: 6568835536736894423
+      Kucel Ekspresi_16: -1608423395366174912
+      Kucel Ekspresi_160: -1237860580152805545
+      Kucel Ekspresi_161: 4604671557469043910
+      Kucel Ekspresi_162: 2911184893313712505
+      Kucel Ekspresi_163: 7685791357329891258
+      Kucel Ekspresi_164: -5768436008877276629
+      Kucel Ekspresi_165: -8860488619850342000
+      Kucel Ekspresi_166: 7285830653896892329
+      Kucel Ekspresi_167: -3225236158986724466
+      Kucel Ekspresi_168: -5752573181100110136
+      Kucel Ekspresi_169: -7010593886147897949
+      Kucel Ekspresi_17: -7299818576774672266
+      Kucel Ekspresi_170: -4304398479629439148
+      Kucel Ekspresi_171: -6798082877012523645
+      Kucel Ekspresi_172: 5387590745696725634
+      Kucel Ekspresi_173: -5440706437214300215
+      Kucel Ekspresi_174: -4273053404017537846
+      Kucel Ekspresi_175: 7937337994641978377
+      Kucel Ekspresi_176: 6544688115139550135
+      Kucel Ekspresi_177: 8857505382953382390
+      Kucel Ekspresi_178: 4563337204752123755
+      Kucel Ekspresi_179: 5338931172184242350
+      Kucel Ekspresi_18: -8136072767327636726
+      Kucel Ekspresi_180: 3256050892265865574
+      Kucel Ekspresi_181: -3838476662280870673
+      Kucel Ekspresi_182: -4135892570063510230
+      Kucel Ekspresi_183: -8558126800596306288
+      Kucel Ekspresi_184: 5448861068111236970
+      Kucel Ekspresi_185: 6702255666976822069
+      Kucel Ekspresi_186: 2922507438458479674
+      Kucel Ekspresi_187: 6255614607180556678
+      Kucel Ekspresi_188: -4444280094045979676
+      Kucel Ekspresi_189: -3705693032248027514
+      Kucel Ekspresi_19: 1814695920742029869
+      Kucel Ekspresi_190: -1319724117448453252
+      Kucel Ekspresi_191: 5058131002570703491
+      Kucel Ekspresi_192: -4544619158382815967
+      Kucel Ekspresi_193: -5505183130553800918
+      Kucel Ekspresi_194: 1431093619
+      Kucel Ekspresi_195: -600624321
+      Kucel Ekspresi_196: 340610311
+      Kucel Ekspresi_197: -1100277747
+      Kucel Ekspresi_198: -1303231505
+      Kucel Ekspresi_199: -316114018
+      Kucel Ekspresi_2: -2637843290363183989
+      Kucel Ekspresi_20: 3774868109591389283
+      Kucel Ekspresi_200: 1618470499
+      Kucel Ekspresi_201: 685086624
+      Kucel Ekspresi_202: -1678015515
+      Kucel Ekspresi_203: 142546423
+      Kucel Ekspresi_204: -2138017618
+      Kucel Ekspresi_205: 687105501
+      Kucel Ekspresi_206: 1585662541
+      Kucel Ekspresi_207: 1556638481
+      Kucel Ekspresi_208: -279717982
+      Kucel Ekspresi_209: -813346059
+      Kucel Ekspresi_21: -8746848865457933260
+      Kucel Ekspresi_210: 2049899228
+      Kucel Ekspresi_211: -298437976
+      Kucel Ekspresi_212: 1095683194
+      Kucel Ekspresi_213: 916952409
+      Kucel Ekspresi_214: 750022392
+      Kucel Ekspresi_215: -1821156507
+      Kucel Ekspresi_216: 2061897957
+      Kucel Ekspresi_217: -2129123396
+      Kucel Ekspresi_218: -1686004891
+      Kucel Ekspresi_219: -1374738096
+      Kucel Ekspresi_22: -2529234409968923581
+      Kucel Ekspresi_220: 1275377320
+      Kucel Ekspresi_221: 1439066572
+      Kucel Ekspresi_222: -1470320496
+      Kucel Ekspresi_223: 771086781
+      Kucel Ekspresi_224: 1446204550
+      Kucel Ekspresi_225: 1581256704
+      Kucel Ekspresi_226: -96801107
+      Kucel Ekspresi_23: 7889456646469961190
+      Kucel Ekspresi_24: -6316911841548395499
+      Kucel Ekspresi_25: 6566965753078908663
+      Kucel Ekspresi_26: -2492114134404818720
+      Kucel Ekspresi_27: -1244034033384740618
+      Kucel Ekspresi_28: -7177587435570814565
+      Kucel Ekspresi_29: 980681777115501423
+      Kucel Ekspresi_3: -782368951663539378
+      Kucel Ekspresi_30: -7330542749423860153
+      Kucel Ekspresi_31: -6193223060293819823
+      Kucel Ekspresi_32: 9113628509542891587
+      Kucel Ekspresi_33: 1393108344140043087
+      Kucel Ekspresi_34: -3753782361785351753
+      Kucel Ekspresi_35: -7753707188456281703
+      Kucel Ekspresi_36: 817902069700229152
+      Kucel Ekspresi_37: 1737134027037816065
+      Kucel Ekspresi_38: -3011627856339619715
+      Kucel Ekspresi_39: -3330860461338406945
+      Kucel Ekspresi_4: 1321268207418002431
+      Kucel Ekspresi_40: 6696110558682282720
+      Kucel Ekspresi_41: 8245849752658328611
+      Kucel Ekspresi_42: -2882254005762830076
+      Kucel Ekspresi_43: 9180758315022619652
+      Kucel Ekspresi_44: 1184061937284033836
+      Kucel Ekspresi_45: 3529056716162415449
+      Kucel Ekspresi_46: 1194798691575098270
+      Kucel Ekspresi_47: 5638401893154327068
+      Kucel Ekspresi_48: 1834667635312879570
+      Kucel Ekspresi_49: -8499918598180810018
+      Kucel Ekspresi_5: -2333988942277062104
+      Kucel Ekspresi_50: -7380849463118702413
+      Kucel Ekspresi_51: -4936254807698310007
+      Kucel Ekspresi_52: 5969786237644423456
+      Kucel Ekspresi_53: -9124215917447017273
+      Kucel Ekspresi_54: -3402893197148555139
+      Kucel Ekspresi_55: 7188300448719507022
+      Kucel Ekspresi_56: 4166826594647232094
+      Kucel Ekspresi_57: -5104572293961995808
+      Kucel Ekspresi_58: 4684666072856976982
+      Kucel Ekspresi_59: 3969578242688067135
+      Kucel Ekspresi_6: 5111942947861659048
+      Kucel Ekspresi_60: -8188983088675086665
+      Kucel Ekspresi_61: -1959650814438282168
+      Kucel Ekspresi_62: 8222840956589662847
+      Kucel Ekspresi_63: -9109185034156287080
+      Kucel Ekspresi_64: 5279803389720329654
+      Kucel Ekspresi_65: 6528088446488430376
+      Kucel Ekspresi_66: 2193012865294181027
+      Kucel Ekspresi_67: 7178369055920039777
+      Kucel Ekspresi_68: -3476954631839075653
+      Kucel Ekspresi_69: -668851245520563013
+      Kucel Ekspresi_7: -3840425120037229254
+      Kucel Ekspresi_70: -2026019718739186645
+      Kucel Ekspresi_71: -8812687351536398703
+      Kucel Ekspresi_72: 8317421811349282158
+      Kucel Ekspresi_73: 6270554381255560835
+      Kucel Ekspresi_74: 3247093619734885286
+      Kucel Ekspresi_75: -1956528229708246241
+      Kucel Ekspresi_76: 7650762574992580853
+      Kucel Ekspresi_77: -8681401559903766456
+      Kucel Ekspresi_78: -1739065265321079432
+      Kucel Ekspresi_79: 470031653958893442
+      Kucel Ekspresi_8: -3643386605537846555
+      Kucel Ekspresi_80: -5203029201376630364
+      Kucel Ekspresi_81: 953898229944840996
+      Kucel Ekspresi_82: 3753758067926996586
+      Kucel Ekspresi_83: -3139305590045718264
+      Kucel Ekspresi_84: 1845614147366001203
+      Kucel Ekspresi_85: -6522217782220285605
+      Kucel Ekspresi_86: -1600740937968969715
+      Kucel Ekspresi_87: 632519643904304803
+      Kucel Ekspresi_88: 8627939136365765226
+      Kucel Ekspresi_89: -6435220249797193081
+      Kucel Ekspresi_9: -6810075121866022421
+      Kucel Ekspresi_90: -6316449419966844702
+      Kucel Ekspresi_91: -8860950783631391783
+      Kucel Ekspresi_92: 5027753372383494133
+      Kucel Ekspresi_93: 5713144130394106134
+      Kucel Ekspresi_94: 3586486834306363117
+      Kucel Ekspresi_95: 5747453301133108467
+      Kucel Ekspresi_96: -6193455120074737106
+      Kucel Ekspresi_97: 2416208390942004977
+      Kucel Ekspresi_98: 25810587732998173
+      Kucel Ekspresi_99: 5235816610966595632
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
