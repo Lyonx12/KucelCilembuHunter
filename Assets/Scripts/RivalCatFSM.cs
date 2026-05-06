@@ -2,100 +2,90 @@ using UnityEngine;
 
 public class RivalCatFSM : MonoBehaviour
 {
-    // Tiga State Utama FSM untuk Kucing Saingan
-    public enum RivalState { Patroling, Chasing, Awkward }
-    public RivalState currentState = RivalState.Patroling;
+    public enum RivalState { Diam, Patroling, PingsanFade }
+    public RivalState currentState = RivalState.Diam;
 
-    [Header("Area Kekuasaan (Patrol)")]
+    [Header("Area Patroli")]
     public Transform pointA;
     public Transform pointB;
     public float patrolSpeed = 2f;
     private Transform targetWaypoint;
 
-    [Header("Mode Ngegas (Seek/Chase)")]
-    public float chaseSpeed = 3.5f;
-    public float detectionRadius = 4f; // Jarak pandang si Judes
-    private Transform playerKucel;
-
-    [Header("Efek Muka Melas Mas Bro")]
-    private float awkwardTimer = 0f;
+    [Header("Efek Pingsan & Portal")]
+    public float kecepatanMemudar = 1f;  // Seberapa cepat Pico menghilang
+    public GameObject portalLevel;       // Masukkan objek Portal_Win ke sini
+    
+    private SpriteRenderer sr;
 
     void Start()
     {
-        targetWaypoint = pointA;
-        // Mencari Kucel di arena
-        playerKucel = GameObject.Find("Player_Kucel").transform;
+        targetWaypoint = pointA; 
+        sr = GetComponent<SpriteRenderer>();
     }
 
     void Update()
     {
-        // Mesin FSM berjalan terus setiap frame[cite: 3, 7]
-        switch (currentState)
+        if (currentState == RivalState.Patroling)
         {
-            case RivalState.Patroling:
-                Patrol();
-                CheckForKucel();
-                break;
-            case RivalState.Chasing:
-                Chase();
-                CheckDistance();
-                break;
-            case RivalState.Awkward:
-                FeelAwkward();
-                break;
+            transform.position = Vector2.MoveTowards(transform.position, targetWaypoint.position, patrolSpeed * Time.deltaTime);
+            
+            if (Vector2.Distance(transform.position, targetWaypoint.position) < 0.1f)
+            {
+                targetWaypoint = targetWaypoint == pointA ? pointB : pointA;
+                BalikBadan(); 
+            }
+        }
+        else if (currentState == RivalState.PingsanFade)
+        {
+            // PROSES FADE AWAY (Memudar perlahan)
+            Color warna = sr.color;
+            warna.a -= kecepatanMemudar * Time.deltaTime; // Kurangi transparansi
+            sr.color = warna;
+
+            // Jika sudah 100% transparan (lenyap)
+            if (warna.a <= 0f)
+            {
+                Debug.Log("Pico lenyap! Portal terbuka!");
+
+                // 1. Pindahkan Portal tepat ke posisi Pico saat ini
+                if (portalLevel != null)
+                {
+                    portalLevel.transform.position = transform.position;
+                    portalLevel.SetActive(true); // Nyalakan portalnya!
+                }
+
+                // 2. Hancurkan objek Pico
+                Destroy(gameObject);
+            }
         }
     }
 
-    void Patrol()
+    void BalikBadan()
     {
-        // Kucing saingan berpatroli menjaga wilayah
-        transform.position = Vector2.MoveTowards(transform.position, targetWaypoint.position, patrolSpeed * Time.deltaTime);
-        
-        // Balik arah jika sudah sampai ujung
-        if (Vector2.Distance(transform.position, targetWaypoint.position) < 0.1f)
+        Vector3 scale = transform.localScale;
+        scale.x *= -1; 
+        transform.localScale = scale;
+    }
+
+    public void MulaiPatroli()
+    {
+        if (currentState == RivalState.Diam)
         {
-            targetWaypoint = targetWaypoint == pointA ? pointB : pointA;
+            currentState = RivalState.Patroling;
+            BalikBadan(); 
         }
     }
 
-    void CheckForKucel()
+    public void KenaJumpscare()
     {
-        // Mendeteksi Kucel memakai kalkulasi jarak vektor[cite: 6]
-        if (Vector2.Distance(transform.position, playerKucel.position) <= detectionRadius)
+        if (currentState != RivalState.PingsanFade)
         {
-            currentState = RivalState.Chasing; // Transisi: Langsung ngegas ngajak ribut!
+            currentState = RivalState.PingsanFade; // Ganti status jadi pingsan
+            
+            // Animasi Pingsan: Putar badan Pico 90 derajat jadi tiduran/terguling
+            transform.rotation = Quaternion.Euler(0, 0, 90f); 
+            
+            Debug.Log("Pico: WADAAAW! *Pingsan*");
         }
-    }
-
-    void Chase()
-    {
-        // Steering Behavior: Seek ke arah Kucel[cite: 6, 7]
-        transform.position = Vector2.MoveTowards(transform.position, playerKucel.position, chaseSpeed * Time.deltaTime);
-    }
-
-    void CheckDistance()
-    {
-        // Jika Kucel menjauh (malas meladeni), musuh kembali patroli
-        if (Vector2.Distance(transform.position, playerKucel.position) > detectionRadius * 1.5f)
-        {
-            currentState = RivalState.Patroling; 
-        }
-    }
-
-    void FeelAwkward()
-    {
-        // Kucing saingan terdiam karena Kucel masang muka melas/datar
-        awkwardTimer -= Time.deltaTime;
-        if (awkwardTimer <= 0)
-        {
-            currentState = RivalState.Patroling; // Ilfeel selesai, lanjut patroli lagi
-        }
-    }
-
-    // Fungsi ini dipanggil saat pemain menekan tombol Skill "Muka Melas" di Kucel
-    public void KenaJurusMelas()
-    {
-        currentState = RivalState.Awkward;
-        awkwardTimer = 3f; // Kucing musuh bengong/ilfeel selama 3 detik
     }
 }

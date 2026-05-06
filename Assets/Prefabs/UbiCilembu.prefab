@@ -11,9 +11,10 @@ GameObject:
   - component: {fileID: 4897431223407762838}
   - component: {fileID: 4281586540043894970}
   - component: {fileID: 16156893823649767}
+  - component: {fileID: 8698474344280205156}
   m_Layer: 0
   m_Name: UbiCilembu
-  m_TagString: ubi
+  m_TagString: Ubi
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -138,3 +139,17 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &8698474344280205156
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6224640692055127062}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37d6013cbb619d5409833bbe1c89a202, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::UbiJatuh
+  kecepatanJatuh: 3
+  batasTanah: 0

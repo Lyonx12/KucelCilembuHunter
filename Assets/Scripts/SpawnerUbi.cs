@@ -3,40 +3,54 @@ using UnityEngine;
 public class SpawnerUbi : MonoBehaviour
 {
     [Header("Pengaturan Spawner")]
-    public GameObject ubiPrefab;      // Slot untuk Prefab Ubi
-    public float waktuSpawn = 4f;     // Ubi muncul setiap 4 detik
+    public GameObject ubiPrefab;      
+    public float jedaMunculBaru = 2f; // Kucel nunggu 2 detik buat dapet jatah ubi baru
     
-    [Header("Area Muncul (X dan Y)")]
+    [Header("Posisi Muncul (Langit)")]
+    public float posisiLangitY = 6f;  
     public float batasKiri = -7f;
     public float batasKanan = 7f;
-    public float batasAtas = 4f;
-    public float batasBawah = -4f;
 
-    private float timer;
+    [Header("Posisi Mendarat (Jalan Hutan)")]
+    public float tanahAtas = 1f;      
+    public float tanahBawah = -1f;    
+
+    // Variabel untuk melacak ubi yang sedang ada di layar
+    private GameObject ubiSaatIni = null;
+    private float timerJeda;
+
+    void Start()
+    {
+        timerJeda = jedaMunculBaru;
+    }
 
     void Update()
     {
-        // Timer berjalan setiap frame
-        timer += Time.deltaTime;
-
-        // Jika waktu sudah mencapai batas (4 detik)
-        if (timer >= waktuSpawn)
+        // JIKA UBI KOSONG (Belum muncul atau baru saja dimakan Kucel)
+        if (ubiSaatIni == null)
         {
-            MunculkanUbi();
-            timer = 0f; // Reset timer
+            timerJeda -= Time.deltaTime; // Mulai hitung mundur
+
+            if (timerJeda <= 0f)
+            {
+                MunculkanUbiDariLangit();
+                timerJeda = jedaMunculBaru; // Reset timer buat ubi berikutnya (kalau nanti dimakan lagi)
+            }
         }
     }
 
-    void MunculkanUbi()
+    void MunculkanUbiDariLangit()
     {
-        // Mencari posisi acak di dalam batas area
         float randomX = Random.Range(batasKiri, batasKanan);
-        float randomY = Random.Range(batasBawah, batasAtas);
-        Vector2 posisiAcak = new Vector2(randomX, randomY);
+        Vector2 posisiMuncul = new Vector2(randomX, posisiLangitY);
 
-        // Fungsi Instantiate adalah inti dari konsep Spawner
-        Instantiate(ubiPrefab, posisiAcak, Quaternion.identity);
+        // Munculkan ubi dan SIMPAN statusnya agar Spawner tahu ada ubi di layar
+        ubiSaatIni = Instantiate(ubiPrefab, posisiMuncul, Quaternion.identity);
         
-        Debug.Log("Satu Ubi Cilembu panas baru saja muncul!");
+        UbiJatuh skripJatuh = ubiSaatIni.GetComponent<UbiJatuh>();
+        if (skripJatuh != null)
+        {
+            skripJatuh.batasTanah = Random.Range(tanahBawah, tanahAtas);
+        }
     }
 }
