@@ -27,6 +27,7 @@ public class KucelController : MonoBehaviour
     public Sprite spriteMakan;    
     public Sprite spriteSembunyi; 
     public Sprite spriteKaget;    
+    public Sprite spriteWin; // Masukkan gambar Kucel pas menang ke sini nanti di Inspector
 
     [Header("UI Menang")]
     public GameObject winPanel;
@@ -152,22 +153,31 @@ public class KucelController : MonoBehaviour
         sr.color = warnaNormal; 
         sudahMakanUbi = false; 
 
-        Debug.Log("Kucel: BAA! (Lompat keluar kardus)");
+        Debug.Log("Kucel: BAA! (Mencoba nakutin)");
 
-        // JURUS SAPU JAGAT: Cari Pico langsung ke akar sistemnya, pasti kena!
+        // 1. Cari objek Pico
         GameObject pico = GameObject.FindGameObjectWithTag("Enemy");
+        
         if (pico != null)
         {
-            RivalCatFSM rival = pico.GetComponent<RivalCatFSM>();
-            if (rival != null) 
+            // 2. Hitung jarak antara Kucel dan Pico
+            float jarakKePico = Vector2.Distance(transform.position, pico.transform.position);
+
+            // 3. Hanya kaget jika jaraknya kurang dari atau sama dengan scareRadius
+            if (jarakKePico <= scareRadius) 
             {
-                rival.KenaJumpscare(); 
-                Debug.Log("Pico berhasil terkena serangan kaget!");
+                RivalCatFSM rival = pico.GetComponent<RivalCatFSM>();
+                if (rival != null) 
+                {
+                    rival.KenaJumpscare(); 
+                    Debug.Log("Pico kena serangan jantung! Dia terlalu dekat (Jarak: " + jarakKePico + ")");
+                }
             }
-        }
-        else
-        {
-            Debug.LogWarning("Waduh, Kucel tidak bisa menemukan objek dengan Tag 'Enemy'!");
+            else
+            {
+                // Kalau kejauhan, Pico cuma bingung tapi tidak pingsan
+                Debug.Log("Pico: 'Eh, kayak ada suara kucing... tapi jauh ah.' (Jarak: " + jarakKePico + ")");
+            }
         }
 
         Invoke("KembaliMukaNormal", 1f); 
@@ -175,20 +185,21 @@ public class KucelController : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D collision)
     {
+        // PENGAMAN: Kalau sudah menang/kalah, jangan deteksi apa-apa lagi!
+        if (isGameOver) return;
+
         if (collision.CompareTag("Ubi") && !sudahMakanUbi)
         {
-            Debug.Log("Nyam! Kucel makan Ubi dan jadi Stealth!");
+            Debug.Log("Nyam! Kucel makan Ubi!");
             sudahMakanUbi = true;
             sr.color = warnaTransparan; 
             sr.sprite = spriteMakan; 
             Invoke("KembaliMukaNormal", 0.5f); 
-
             Destroy(collision.gameObject); 
         }
-        else if (collision.CompareTag("Portal")) // JIKA NYENTUH PORTAL
+        else if (collision.CompareTag("Portal")) 
         {
-            Debug.Log("Kucel sampai di tujuan!");
-            MenangDong(); // Baru panggil Win Panel di sini!
+            MenangDong(); 
         }
     }
 
@@ -222,21 +233,32 @@ public class KucelController : MonoBehaviour
 
     void MenangDong()
     {
-        // Bikin Kucel berhenti bergerak
+        if (isGameOver) return; // Mencegah pemanggilan ganda
         isGameOver = true; 
         
-        Debug.Log("Kucel masuk portal! Tunggu 1.5 detik...");
+        if (spriteWin != null) sr.sprite = spriteWin; 
 
-        // Tunda pemunculan Win Panel selama 1.5 detik biar asik dilihat
+        rb.linearVelocity = Vector2.zero;
+        rb.isKinematic = true; // Biar Kucel gak kegeser-geser lagi
+
+        Debug.Log("Hore! Kucel menang. Menunggu Panel muncul...");
         Invoke("TampilWinPanel", 1.5f);
     }
 
     void TampilWinPanel()
     {
-        // Munculkan UI Menang setelah jeda selesai
-        if (winPanel != null) winPanel.SetActive(true);
+        if (winPanel != null) 
+        {
+            winPanel.SetActive(true); 
+            Debug.Log("Win Panel AKTIF!");
+        }
+        else 
+        {
+            // Jika ini muncul, berarti kamu lupa drag objek ke Inspector
+            Debug.LogError("ERROR: Win Panel belum dimasukkan ke Inspector Player_Kucel!");
+        }
         
-        // Baru hentikan waktu gamenya di sini
-        PauseGame(); 
+        // Hentikan waktu
+        Time.timeScale = 0f; 
     }
 }

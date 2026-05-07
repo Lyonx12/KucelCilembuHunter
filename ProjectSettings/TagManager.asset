@@ -8,6 +8,7 @@ TagManager:
   - Enemy
   - Kardus
   - Ubi
+  - Portal
   layers:
   - Default
   - TransparentFX
